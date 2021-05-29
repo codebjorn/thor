@@ -1,0 +1,10 @@
+{
+  "classNames": {
+    "default": "hero",
+    "type": "string"
+  },
+  "title": {
+    "default": "This is title",
+    "type": "string"
+  }
+}

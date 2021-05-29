@@ -1,0 +1,33 @@
+{
+  "name": "wpackagist-plugin/thor",
+  "description": "WP Plugin Thor",
+  "type": "wp-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dorin Lazar",
+      "email": "quotesun@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../../packages/mjolnir",
+      "options": {
+        "symLink": true
+      }
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Thor\\": "app/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "require": {
+    "codebjorn/mjolnir": "dev-master"
+  }
+}

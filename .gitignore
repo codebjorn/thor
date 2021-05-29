@@ -1,0 +1,7 @@
+.idea
+.vscode
+composer.lock
+node_modules
+vendor
+assets/*
+!assets/.gitkeep
