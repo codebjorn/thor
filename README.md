@@ -4,8 +4,9 @@
 
 # Thor, WordPress Plugin Boilerplate
 
+
 [![GitHub release](https://img.shields.io/github/v/release/codebjorn/thor?include_prereleases)](https://github.com/codebjorn/thor/releases)
-[![Generic badge](https://img.shields.io/badge/Stability-Alpha-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Stability-Alpha-orange.svg)](https://shields.io/)
 
 Thor is WordPress Plugin Boilerplate using as a base [Mjolnir](https://github.com/codebjorn/mjolnir) Framework
 
