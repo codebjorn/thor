@@ -1,5 +1,5 @@
 {
-  "name": "wpackagist-plugin/thor",
+  "name": "codebjorn/thor",
   "description": "WP Plugin Thor",
   "type": "wp-plugin",
   "license": "MIT",
@@ -19,6 +19,6 @@
     "optimize-autoloader": true
   },
   "require": {
-    "codebjorn/mjolnir": "^0.1.0"
+    "codebjorn/mjolnir": "^0.1.1"
   }
 }
