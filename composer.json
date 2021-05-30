@@ -9,16 +9,7 @@
       "email": "quotesun@gmail.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "path",
-      "url": "../../packages/mjolnir",
-      "options": {
-        "symLink": true
-      }
-    }
-  ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "Thor\\": "app/"
@@ -28,6 +19,6 @@
     "optimize-autoloader": true
   },
   "require": {
-    "codebjorn/mjolnir": "dev-master"
+    "codebjorn/mjolnir": "^0.1.0"
   }
 }
